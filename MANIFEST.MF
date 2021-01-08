@@ -1,0 +1,2 @@
+Main-Class: exe
+Class-Path: src/Lib/AbsoluteLayout.jar src/Lib/json-20201115.jar src/Lib/jcalendar-1.4.jar
